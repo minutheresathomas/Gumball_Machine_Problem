@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GumballMachine()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ GumballMachine\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ removeCoin()
+comment3.params=coin\ quarter\ fakeQuarter\ penny
+comment3.target=void\ checkCoinType(greenfoot.Actor,\ greenfoot.Actor,\ greenfoot.Actor,\ greenfoot.Actor)
+comment4.params=
+comment4.target=boolean\ checkCoinQuarter()
+comment5.params=
+comment5.target=boolean\ checkCoinFakeQuarter()
+comment6.params=
+comment6.target=boolean\ checkCoinPenny()
+comment7.params=msg
+comment7.target=void\ removeAddMessage(java.lang.String)
+numComments=8

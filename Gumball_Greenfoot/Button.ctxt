@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=inspect
+comment0.target=Button(Inspector)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ mouseClickAction()
+numComments=3
